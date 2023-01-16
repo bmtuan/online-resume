@@ -1,18 +1,16 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Bui Manh Tuan
+  title: AI Engineer
   avatar:
     display: true
     path: profile.png
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
-  wechat:
-  whatsapp:
-  telegram:
+  email: tuanbm183653@gmail.com
+  phone: +84-389020687
+  website: 
+  telegram: 0389020687
   github: github
   gitlab:
   bitbucket:
